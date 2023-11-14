@@ -1,11 +1,12 @@
 {
     "name": "Hamzah",
-    "age": 30,
+    "age": 34,
     "city": "Washington,WA",
     "interests": [
         "basketbal",
         "Gym",
-        "Gaming"
+        "Gaming",
+        "Sports"
     ],
     "is_student": true
 }
